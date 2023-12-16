@@ -1,0 +1,23 @@
+## Combaind React Project --
+ ** Backend- Express js
+ 1. Package.Json
+	* npm init --y
+ 2. Express js er project 
+	* index.js
+	* app.js
+	* src folder -
+		1. Contoller
+		2. Middleware
+		3. Utility
+		4. Routes
+		5. Model 
+ 3. all package install kora -- npm i  ( Body-parser, cookie-parser, Cors, express, express-mongo-sanitize, express-rate-    limit, form-data, helmet, hpp, jsonwebtoken, mongoose, Nodemailer, Nodemon, Xss-clean, )
+ 4. Command -- node index.js / npm run start 
+ 5.
+
+ ** React Vite project 
+ 1. create react new app Vite (npm create vite@latest )
+ 2. all package install kora -- npm i ( axios , Bootstap, reac-bootstap, react-hot-toast etc )
+ 3. Command -- npm run build,  npm run dev.
+ 4. 
+ 5.
